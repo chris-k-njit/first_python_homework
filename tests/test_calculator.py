@@ -9,11 +9,10 @@ def test_subtraction(): # Test subtraction
     assert subtract(7,1) == 6
 
 def test_multiplication(): # test multiplication
-    assert multiply(1*2) == 2
+    assert multiply(1,2) == 2
 
 def test_division(): # test division
-    assert divide(4/2) == 2
+    assert divide(4,2) == 2
 
 def test_exponents(): ## test exponent
-    assert exponential(2**2) == 4
-    
+    assert exponential(2,2) == 4
