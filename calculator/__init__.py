@@ -1,11 +1,14 @@
-def add(a,b):
-    return a + b
+def add(x,y):
+  return x + y
 
-def subtract(a,b):
-    return a - b
+def subtract(x,y):
+  return x - y
 
-# def multiply(a,b): same error as divide.
-  #  return a * b
+def multiply(x,y): 
+  return x * y
 
-# def divide(a,b):   Got a type error, try again in near future.
-#    return a / b
+def divide(x,y):   
+  return x / y
+
+def exponential(x,y):
+  return x**y
