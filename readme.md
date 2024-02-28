@@ -1,5 +1,6 @@
-# Project Install Instructions for Python
-## Chris Keddell Python Assignment, IS601
+# IS 601 - Second Homework, First Python Assignment
+## Project Install Instructions for Python
+### Chris K. Python Assignment
 
 ## Installation information
  
